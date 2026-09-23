@@ -126,7 +126,6 @@ function App() {
     <main>
       <section className="hero">
         <h1>Ubah format file.<br/><em>Bukan privasimu.</em></h1>
-        <p>Konversi gambar dan PDF dengan cepat—tanpa upload, tanpa akun, tanpa file meninggalkan perangkatmu.</p>
         <div className="hero-proof"><span><ShieldCheck/> File tidak diunggah</span><span><Zap/> Cepat & gratis</span><span><Lock/> Tanpa tracking pribadi</span></div>
         <ArrowDown className="scroll-arrow"/>
       </section>
