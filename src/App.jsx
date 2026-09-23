@@ -125,7 +125,6 @@ function App() {
     <Header/>
     <main>
       <section className="hero">
-        <div className="eyebrow"><span></span> 100% lokal di browser</div>
         <h1>Ubah format file.<br/><em>Bukan privasimu.</em></h1>
         <p>Konversi gambar dan PDF dengan cepat—tanpa upload, tanpa akun, tanpa file meninggalkan perangkatmu.</p>
         <div className="hero-proof"><span><ShieldCheck/> File tidak diunggah</span><span><Zap/> Cepat & gratis</span><span><Lock/> Tanpa tracking pribadi</span></div>
